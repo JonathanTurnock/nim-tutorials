@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{70:function(l){l.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/nim-tutorials/blog/welcome"},{"title":"Hello","permalink":"/nim-tutorials/blog/hello-world"},{"title":"Hola","permalink":"/nim-tutorials/blog/hola"}]}')}}]);

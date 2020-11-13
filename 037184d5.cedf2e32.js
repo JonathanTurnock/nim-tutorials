@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{60:function(l){l.exports=JSON.parse('{"allTagsPath":"/nim-tutorials/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/nim-tutorials/blog/tags/hello"}')}}]);
